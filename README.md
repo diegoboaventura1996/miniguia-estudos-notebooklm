@@ -17,15 +17,18 @@ ENGENHARIA DE PROMPTS
 Os prompts inseridos por mim dentro do NotebookLM para interagir com a base de conhecimento visam facilitar a organização, visualização e entendimento dos conceitos principais e derivados. A seguir estão os comandos utilizados e seus respectivos arquivos contendo os resultados entregues pela ferramenta:
 
 Prompt para resumo geral do conteúdo: "Faça um resumo estruturado sobre fundamentos do marketing, organizando em parágrafos curtos e tópicos os conceitos principais, conceitos derivados e suas explicações"
-[prompt_resumo_geral.pdf](https://github.com/user-attachments/files/26413207/prompt_resumo_geral.pdf)
+
+Resultado entregue:[prompt_resumo_geral.pdf](https://github.com/user-attachments/files/26413207/prompt_resumo_geral.pdf)
 
 
 Prompt para comparação detalhada entre dois conceitos: "Faça um tabela comparando os conceitos de Inbound e Outbound marketing por suas vantagens e desvantagens"
-[prompt_comparativo.pdf](https://github.com/user-attachments/files/26413208/prompt_comparativo.pdf)
+
+Resultado entregue:[prompt_comparativo.pdf](https://github.com/user-attachments/files/26413208/prompt_comparativo.pdf)
 
 
 Prompt para glossário de termos importantes: "Crie um glossário com os termos que definem as principais métricas de desempenho usadas no marketing"
-[prompt_glossario.pdf](https://github.com/user-attachments/files/26413209/prompt_glossario.pdf)
+
+Resultado entregue:[prompt_glossario.pdf](https://github.com/user-attachments/files/26413209/prompt_glossario.pdf)
 
 Miniguia de estudo gerado pelo Estúdio (texto salvo em arquivo pdf): [miniguia_estudos.pdf](https://github.com/user-attachments/files/26413304/miniguia_estudos.pdf)
 
