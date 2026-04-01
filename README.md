@@ -88,76 +88,34 @@ A seguir, apresenta-se a tabela comparativa solicitada:
 
 As fontes ressaltam que não existe uma estratégia melhor que a outra; na prática, o marketing digital moderno frequentemente utiliza uma combinação de ambas de forma complementar para maximizar os resultados comerciais.
 
-### Prompt 3: simulado de revisão
+### Prompt 3: glossário de métricas de desempenho
 
 **Prompt utilizado**
 
-> Elabore um questionário para revisão do tema que servirá como simulado de uma avaliação final de graduação de Marketing e deve conter 10 questões objetivas com enunciado curto, 4 alternativas cada e apenas 1 resposta correta possível.
+> Crie um glossário com os termos que definem as principais métricas de desempenho usadas no marketing.
 
 **Resposta entregue**
 
-Este questionário foi elaborado com base nos conceitos fundamentais apresentados nas fontes, abrangendo estratégia, comportamento do consumidor e marketing digital.
+Este glossário apresenta as principais métricas e indicadores de desempenho (KPIs) utilizados para monitorar resultados, identificar falhas e orientar a tomada de decisão estratégica em marketing:
 
-**Simulado de avaliação final: Fundamentos de Marketing**
+- **CAC (Custo de Aquisição de Cliente):** expressa o investimento total médio feito para converter cada novo cliente. É calculado dividindo-se o investimento total em marketing pelo número de clientes obtidos em um período.
+- **Churn (Taxa de Cancelamento):** representa o percentual de clientes que pararam de comprar ou cancelaram o serviço da empresa em um intervalo de tempo. É uma métrica vital para avaliar a retenção.
+- **CPC (Custo por Clique):** utilizado principalmente em anúncios digitais, identifica quanto cada clique custou à empresa, sendo útil para analisar a etapa de descoberta do funil de vendas.
+- **KPIs (Indicadores-Chave de Desempenho):** são as métricas mais importantes definidas por um gestor para medir o desempenho em relação às metas de negócio, servindo de base para ajustes estratégicos.
+- **LTV (Lifetime Value / Valor Vitalício do Cliente):** indica o valor total que um cliente deixa na organização durante todo o período em que se relaciona com a marca. Ajuda a determinar a lucratividade da aquisição de clientes quando comparado ao CAC.
+- **Market Share (Participação de Mercado):** define a posição relativa da empresa no mercado, expressando a porcentagem de vendas ou clientes que ela detém em relação à concorrência total.
+- **NPS (Net Promoter Score):** métrica de fidelização do cliente que quantifica o quanto os consumidores recomendariam a marca. Classifica os clientes em promotores, neutros ou detratores com base em uma escala de 0 a 10.
+- **ROAS (Retorno dos Gastos com Publicidade):** foca especificamente no ganho obtido sobre os gastos com divulgação e anúncios, sem considerar outros custos operacionais.
+- **ROI (Retorno Sobre Investimento):** avalia o percentual de ganho total sobre o investimento feito. Diferente do ROAS, o ROI costuma englobar custos globais, como logística e produção, fornecendo uma visão geral da saúde financeira das campanhas.
+- **Taxa de Conversão:** refere-se ao ritmo no qual os potenciais clientes são movidos de uma etapa para a seguinte no ciclo de vendas.
+- **Ticket Médio:** é o valor médio das vendas realizadas por comprador, calculado pela relação entre o faturamento total e o número de compradores.
 
-1. De acordo com a definição moderna, qual é o foco central da atividade de marketing?
-   - A) Maximizar o volume de vendas por meio de promoções agressivas.
-   - B) Criar, comunicar, entregar e trocar ofertas que tenham valor para os clientes.
-   - C) Identificar apenas os pontos fracos dos concorrentes diretos.
-   - D) Reduzir custos de produção para oferecer o menor preço do mercado.
+## Miniguia de estudo
 
-2. No Mix de Marketing (4 Ps), a variável que se refere aos canais de distribuição e logística é:
-   - A) Produto.
-   - B) Preço.
-   - C) Praça (ou Ponto).
-   - D) Promoção.
+O miniguia de estudo foi gerado pelo Estúdio e salvo em arquivo PDF, com foco em apoiar a revisão dos conteúdos centrais de Fundamentos de Marketing.
 
-3. Qual orientação de mercado foca na satisfação das necessidades e desejos do consumidor para alcançar objetivos organizacionais?
-   - A) Orientação para a produção.
-   - B) Orientação para as vendas.
-   - C) Orientação para o mercado.
-   - D) Orientação para o produto.
+## Acesso ao caderno
 
-4. No modelo STP, o processo de “Posicionamento” consiste em:
-   - A) Dividir o mercado em grupos com características semelhantes.
-   - B) Selecionar qual segmento a empresa deve focar seus esforços.
-   - C) Construir a imagem do produto na mente do consumidor em relação aos concorrentes.
-   - D) Calcular o retorno financeiro de uma campanha digital.
+O caderno completo pode ser acessado no link abaixo:
 
-5. Na análise SWOT (FOFA), quais elementos representam variáveis externas e incontroláveis?
-   - A) Forças e Fraquezas.
-   - B) Forças e Oportunidades.
-   - C) Fraquezas e Ameaças.
-   - D) Oportunidades e Ameaças.
-
-6. Qual das “Cinco Forças de Porter” analisa a facilidade de novos competidores ingressarem em um mercado?
-   - A) Ameaça de novos entrantes.
-   - B) Poder de barganha dos fornecedores.
-   - C) Ameaça de produtos substitutos.
-   - D) Rivalidade entre concorrentes.
-
-7. No funil de vendas, a etapa em que o consumidor decide efetivamente adquirir o produto é chamada de:
-   - A) Descoberta.
-   - B) Reconhecimento do problema.
-   - C) Consideração da solução.
-   - D) Decisão de compra.
-
-8. Qual métrica de marketing digital expressa o ganho obtido em relação ao investimento feito?
-   - A) CAC (Custo de Aquisição de Cliente).
-   - B) ROI (Retorno sobre Investimento).
-   - C) CPC (Custo por Clique).
-   - D) Ticket Médio.
-
-9. Na Matriz BCG, um produto com alta participação de mercado em um setor de baixo crescimento é classificado como:
-   - A) Estrela.
-   - B) Vaca Leiteira.
-   - C) Oportunidade (ou Ponto de Interrogação).
-   - D) Animal de Estimação (ou Abacaxi).
-
-10. Qual a principal característica da estratégia de Inbound Marketing?
-   - A) Interromper o público com anúncios em massa.
-   - B) Atrair clientes através de conteúdo relevante e marketing de permissão.
-   - C) Realizar prospecção ativa via telemarketing.
-   - D) Focar exclusivamente em meios de comunicação tradicionais offline.
-
-**Gabarito:** 1-B; 2-C; 3-C; 4-C; 5-D; 6-A; 7-D; 8-B; 9-B; 10-B.
+- [NotebookLM - Caderno completo](https://notebooklm.google.com/notebook/f3ccedc1-665b-4051-a5bc-076a572c81a7?authuser=1)
