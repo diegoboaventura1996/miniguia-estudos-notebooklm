@@ -1,5 +1,3 @@
-# miniguia-estudos-notebooklm
-
 # Desafio bootcamp DIO e Lupo - Primeiros passos com Inteligência Artificial: Caderno temático NotebookLM
 
 ## Contexto e objetivos
