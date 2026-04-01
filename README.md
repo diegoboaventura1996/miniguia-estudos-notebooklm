@@ -110,10 +110,6 @@ Este glossário apresenta as principais métricas e indicadores de desempenho (K
 - **Taxa de Conversão:** refere-se ao ritmo no qual os potenciais clientes são movidos de uma etapa para a seguinte no ciclo de vendas.
 - **Ticket Médio:** é o valor médio das vendas realizadas por comprador, calculado pela relação entre o faturamento total e o número de compradores.
 
-## Miniguia de estudo
-
-O miniguia de estudo foi gerado pelo Estúdio e salvo em arquivo PDF, com foco em apoiar a revisão dos conteúdos centrais de Fundamentos de Marketing.
-
 ## Acesso ao caderno
 
 O caderno completo pode ser acessado no link abaixo:
